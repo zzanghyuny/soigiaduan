@@ -1,0 +1,2 @@
+# Thay bằng dòng AdSense thật sau khi được duyệt, ví dụ:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

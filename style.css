@@ -1,0 +1,18 @@
+
+:root{--bg:#fff;--fg:#111;--mut:#666;--line:#ddd;--soft:#f5f5f5}
+@media(prefers-color-scheme:dark){:root{--bg:#000;--fg:#f2f2f2;--mut:#999;--line:#333;--soft:#141414}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.7 -apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+a{color:inherit}header.s{border-bottom:1px solid var(--line)}
+.w{max-width:760px;margin:0 auto;padding:0 16px}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:14px 0;gap:12px;flex-wrap:wrap}
+.logo{font-weight:800;letter-spacing:-.02em;text-decoration:none;font-size:20px}
+.nav nav a{margin-left:16px;font-size:14px;color:var(--mut);text-decoration:none}
+h1{font-size:30px;line-height:1.25;letter-spacing:-.02em;margin:28px 0 8px}h2{font-size:22px;margin:40px 0 10px;letter-spacing:-.01em}h3{font-size:17px;margin:24px 0 6px}
+.meta{color:var(--mut);font-size:14px}.box{border:1px solid var(--fg);padding:14px 16px;margin:20px 0;background:var(--soft);font-size:15px}
+.box.w2{border-style:dashed}table{border-collapse:collapse;width:100%;font-size:14px;margin:12px 0}th,td{border-bottom:1px solid var(--line);padding:7px 6px;text-align:left;vertical-align:top}th{border-bottom:2px solid var(--fg)}td.n,th.n{text-align:right;white-space:nowrap}
+.tw{overflow-x:auto}figure{margin:20px 0}figure svg{width:100%;height:auto;display:block;background:var(--bg);border:1px solid var(--line)}figcaption{font-size:13px;color:var(--mut);margin-top:6px}
+.big{font-size:34px;font-weight:800;letter-spacing:-.02em}.kpi{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0}.kpi div{border:1px solid var(--line);padding:12px}.kpi small{display:block;color:var(--mut);font-size:12px}
+.card{display:block;border:1px solid var(--line);padding:18px;margin:16px 0;text-decoration:none}.card:hover{border-color:var(--fg)}
+footer{border-top:1px solid var(--line);margin-top:56px;padding:24px 0;color:var(--mut);font-size:13px}footer a{margin-right:14px}
+.ad{border:1px dashed var(--line);color:var(--mut);text-align:center;font-size:12px;padding:28px;margin:28px 0}
+@media(max-width:560px){.kpi{grid-template-columns:1fr}h1{font-size:25px}}
