@@ -52,5 +52,25 @@ var DUAN = [
   "dateLabel": "14/11/2026",
   "url": "bai-viet/the-reflection-west-lake-thong-tin-du-an.html",
   "preview": "Tổng hợp thông tin The Reflection West Lake của Kusto Home tại Tây Hồ, Hà Nội: 154 căn hộ, các loại căn studio đến 4 phòng ngủ, 18 mặt bằng với diện tích tim tường và thông thủy."
+ },
+ {
+  "id": "tt-genesis-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Nhà Bè",
+  "title": "TT Genesis (Nhà Bè): thông tin dự án, 6 mẫu căn hộ và số căn từng loại mỗi tầng",
+  "date": "2026-11-15",
+  "dateLabel": "15/11/2026",
+  "url": "bai-viet/tt-genesis-thong-tin-du-an.html",
+  "preview": "Tổng hợp TT Genesis (TT Capital, Đào Sư Tích, Nhà Bè): hai tháp The Maris và The Lucis, 6 mẫu căn 1–3 phòng ngủ với diện tích tim tường và thông thủy, số căn từng loại mỗi tầng, giá tham khảo."
+ },
+ {
+  "id": "elysian-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Elysian (Lò Lu, Thủ Đức): thông tin dự án và 12 mặt bằng căn hộ của Gamuda Land",
+  "date": "2026-11-15",
+  "dateLabel": "15/11/2026",
+  "url": "bai-viet/elysian-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin Elysian (Gamuda Land, Lò Lu, TP. Thủ Đức): 12 mẫu căn hộ studio, 1–3 phòng ngủ với diện tích tim tường và thông thủy chính thức, giá tham khảo."
  }
 ];
