@@ -1,0 +1,38 @@
+name: Publish project-info posts
+# 09:00 and 20:00 Vietnam time (UTC+7) = 02:00 and 13:00 UTC. Publishes the next 2 queued posts from the `drafts` branch.
+on:
+  schedule:
+    - cron: "0 2 * * *"
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish-project-info
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: drafts
+          path: dr
+      - name: Publish next posts
+        run: python3 dr/drafts/publish_next.py main dr/drafts
+      - name: Commit and push
+        working-directory: main
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "Publish scheduled project-info posts"
+            git push origin main
+          else
+            echo "Nothing to publish"
+          fi
