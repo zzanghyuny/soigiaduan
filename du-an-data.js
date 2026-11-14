@@ -1,0 +1,56 @@
+/*
+  Dữ liệu các bài "Thông tin dự án". Thêm bài mới = thêm một đối tượng vào mảng DUAN.
+  region: "TP.HCM" | "Hà Nội" | "Đà Nẵng" | "Bình Dương" | ... (dùng cho tab khu vực)
+*/
+var DUAN = [
+ {
+  "id": "lancaster-legacy-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Quận 1",
+  "title": "Lancaster Legacy (Nguyễn Trãi, Quận 1): thông tin dự án, 20 mặt bằng căn hộ và giá tham khảo",
+  "date": "2026-11-14",
+  "dateLabel": "14/11/2026",
+  "url": "bai-viet/lancaster-legacy-thong-tin-du-an.html",
+  "preview": "Trung Thủy Group, 230 Nguyễn Trãi: các mẫu căn hộ 1–4 phòng ngủ, 20 mặt bằng với diện tích tim tường và thông thủy, tiện ích trên cao và giá tham khảo."
+ },
+ {
+  "id": "the-marq-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Quận 1",
+  "title": "The Marq (Nguyễn Đình Chiểu, Quận 1): thông tin dự án, 28 mặt bằng căn hộ và giá tham khảo",
+  "date": "2026-11-14",
+  "dateLabel": "14/11/2026",
+  "url": "bai-viet/the-marq-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin The Marq (Hongkong Land, 29B Nguyễn Đình Chiểu, Quận 1): các mẫu căn hộ 1–4 phòng ngủ, 28 mặt bằng với diện tích tim tường và thông thủy, giá rao tham khảo."
+ },
+ {
+  "id": "imperia-sensa-park-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Imperia Sensa Park (Phước Long, Thủ Đức): thông tin dự án, mặt bằng 2–3 phòng ngủ và giá tham khảo",
+  "date": "2026-11-14",
+  "dateLabel": "14/11/2026",
+  "url": "bai-viet/imperia-sensa-park-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin Imperia Sensa Park của MIK Group: quy mô, tháp A và B, mặt bằng căn hộ 2–3 phòng ngủ với diện tích tim tường và thông thủy từng mã căn, tiến độ và giá tham khảo."
+ },
+ {
+  "id": "the-nest-midori-park-thong-tin-du-an",
+  "region": "Bình Dương",
+  "tag": "Thông tin dự án · Bình Dương",
+  "title": "The Nest (Midori Park, Bình Dương): thông tin dự án, mặt bằng tháp West và giá tham khảo",
+  "date": "2026-11-14",
+  "dateLabel": "14/11/2026",
+  "url": "bai-viet/the-nest-midori-park-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin The Nest tại Midori Park (Becamex Tokyu, Thành phố mới Bình Dương): quy mô hai tháp, 22 mặt bằng tháp West với diện tích thông thủy (NSA), giá tham khảo."
+ },
+ {
+  "id": "the-reflection-west-lake-thong-tin-du-an",
+  "region": "Hà Nội",
+  "tag": "Thông tin dự án · Tây Hồ",
+  "title": "The Reflection West Lake (Tây Hồ, Hà Nội): thông tin dự án và 18 mặt bằng căn hộ",
+  "date": "2026-11-14",
+  "dateLabel": "14/11/2026",
+  "url": "bai-viet/the-reflection-west-lake-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin The Reflection West Lake của Kusto Home tại Tây Hồ, Hà Nội: 154 căn hộ, các loại căn studio đến 4 phòng ngủ, 18 mặt bằng với diện tích tim tường và thông thủy."
+ }
+];
