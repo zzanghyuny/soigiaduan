@@ -72,5 +72,25 @@ var DUAN = [
   "dateLabel": "15/11/2026",
   "url": "bai-viet/elysian-thong-tin-du-an.html",
   "preview": "Tổng hợp thông tin Elysian (Gamuda Land, Lò Lu, TP. Thủ Đức): 12 mẫu căn hộ studio, 1–3 phòng ngủ với diện tích tim tường và thông thủy chính thức, giá tham khảo."
+ },
+ {
+  "id": "the-opus-one-vinhomes-grand-park-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "The Opus One (Vinhomes Grand Park, Thủ Đức): thông tin dự án và 15 mặt bằng căn hộ",
+  "date": "2026-11-15",
+  "dateLabel": "15/11/2026",
+  "url": "bai-viet/the-opus-one-vinhomes-grand-park-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin The Opus One tại Vinhomes Grand Park (TP. Thủ Đức): các mẫu studio, 1PN+1, 2PN, 3PN với diện tích tim tường và thông thủy, giá tham khảo."
+ },
+ {
+  "id": "narra-residences-empire-city-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Thiêm",
+  "title": "Narra Residences (Empire City, Thủ Thiêm): thông tin dự án và 25 mặt bằng căn hộ của Keppel",
+  "date": "2026-11-15",
+  "dateLabel": "15/11/2026",
+  "url": "bai-viet/narra-residences-empire-city-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin Narra Residences tại Empire City (Thủ Thiêm): 25 mặt bằng căn hộ 1–4 phòng ngủ, giá tham khảo và các lưu ý về cách ghi diện tích."
  }
 ];
