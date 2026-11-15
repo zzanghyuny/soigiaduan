@@ -92,5 +92,25 @@ var DUAN = [
   "dateLabel": "15/11/2026",
   "url": "bai-viet/narra-residences-empire-city-thong-tin-du-an.html",
   "preview": "Tổng hợp thông tin Narra Residences tại Empire City (Thủ Thiêm): 25 mặt bằng căn hộ 1–4 phòng ngủ, giá tham khảo và các lưu ý về cách ghi diện tích."
+ },
+ {
+  "id": "sunshine-sky-city-v7-v9-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Quận 7",
+  "title": "Sunshine Sky City (phân khu Thịnh Vượng V7–V9, Quận 7): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-16",
+  "dateLabel": "16/11/2026",
+  "url": "bai-viet/sunshine-sky-city-v7-v9-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin phân khu Thịnh Vượng V7, V8, V9 của Sunshine Sky City (Sunshine Group, Quận 7): ba tháp 36 tầng, mặt bằng 2–4 phòng ngủ và khoảng diện tích công bố."
+ },
+ {
+  "id": "setia-edenia-eco-xuan-thong-tin-du-an",
+  "region": "Bình Dương",
+  "tag": "Thông tin dự án · Thuận An",
+  "title": "Setia Edenia (Eco Xuân, Thuận An): thông tin dự án và mặt bằng căn hộ của SP Setia",
+  "date": "2026-11-16",
+  "dateLabel": "16/11/2026",
+  "url": "bai-viet/setia-edenia-eco-xuan-thong-tin-du-an.html",
+  "preview": "Tổng hợp thông tin Setia Edenia tại Eco Xuân (SP Setia, Thuận An, Bình Dương): 3 block, 940 căn, các mẫu studio đến 3 phòng ngủ với diện tích tim tường và thông thủy."
  }
 ];
