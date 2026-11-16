@@ -112,5 +112,25 @@ var DUAN = [
   "dateLabel": "16/11/2026",
   "url": "bai-viet/setia-edenia-eco-xuan-thong-tin-du-an.html",
   "preview": "Tổng hợp thông tin Setia Edenia tại Eco Xuân (SP Setia, Thuận An, Bình Dương): 3 block, 940 căn, các mẫu studio đến 3 phòng ngủ với diện tích tim tường và thông thủy."
+ },
+ {
+  "id": "q2-thao-dien-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · TP. Thủ Đức",
+  "title": "Q2 Thảo Điền (Thủ Đức): thông tin dự án và 18 mặt bằng căn hộ",
+  "date": "2026-11-16",
+  "dateLabel": "16/11/2026",
+  "url": "bai-viet/q2-thao-dien-thong-tin-du-an.html",
+  "preview": "Q2 Thảo Điền là dự án căn hộ – nhà phố – biệt thự của Frasers Property (Singapore) tại phường Thảo Điền, TP. Thủ Đức, do liên doanh G Homes (Frasers Property và An Dương Thảo Điền) phát triển. Dự án gồm một tòa tháp 32 tầng với…"
+ },
+ {
+  "id": "vinhomes-golden-river-ba-son-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Quận 1",
+  "title": "Vinhomes Golden River (Ba Son, Quận 1): thông tin dự án và 11 mặt bằng căn hộ",
+  "date": "2026-11-16",
+  "dateLabel": "16/11/2026",
+  "url": "bai-viet/vinhomes-golden-river-ba-son-thong-tin-du-an.html",
+  "preview": "Vinhomes Golden River là khu phức hợp của Vinhomes tại khu đất Ba Son, Quận 1, ven sông Sài Gòn và kênh Thị Nghè. Phân khu The Aqua gồm 4 tòa căn hộ. Trang tổng hợp công bố 11 mặt bằng căn hộ; bài này đặt các mặt bằng đó vào một…"
  }
 ];
