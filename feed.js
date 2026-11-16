@@ -2,7 +2,7 @@
 (function(){
   function render(box){
     var pageSize=parseInt(box.getAttribute("data-page-size")||"12",10);
-    var base=(typeof DUAN!=="undefined"?DUAN.slice():[]).sort(function(a,b){return (b.date||"").localeCompare(a.date||"");});
+    var nowT=Date.now();var base=(typeof DUAN!=="undefined"?DUAN.slice():[]).filter(function(p){return !p.publishAt||Date.parse(p.publishAt)<=nowT;}).sort(function(a,b){return (b.date||"").localeCompare(a.date||"");});
     if(!base.length){box.innerHTML='<p class="meta">Chưa có bài.</p>';return;}
     var regions=[];base.forEach(function(p){if(p.region&&regions.indexOf(p.region)<0)regions.push(p.region);});
     var active="",shown=0,posts=base;

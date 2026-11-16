@@ -1,9 +1,8 @@
 name: Publish project-info posts
-# 09:00 and 20:00 Vietnam time (UTC+7) = 02:00 and 13:00 UTC. Publishes the next 2 queued posts from the `drafts` branch.
+# Runs hourly; publish_next.py assigns fixed 09:00 and 20:00 Vietnam-time (ICT) slots and hides posts until then (publishAt).
 on:
   schedule:
-    - cron: "0 2 * * *"
-    - cron: "0 13 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
