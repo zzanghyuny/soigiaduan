@@ -132,5 +132,16 @@ var DUAN = [
   "dateLabel": "16/11/2026",
   "url": "bai-viet/vinhomes-golden-river-ba-son-thong-tin-du-an.html",
   "preview": "Vinhomes Golden River là khu phức hợp của Vinhomes tại khu đất Ba Son, Quận 1, ven sông Sài Gòn và kênh Thị Nghè. Phân khu The Aqua gồm 4 tòa căn hộ. Trang tổng hợp công bố 11 mặt bằng căn hộ; bài này đặt các mặt bằng đó vào một…"
+ },
+ {
+  "id": "the-grand-manhattan-quan-1-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Quận 1",
+  "title": "The Grand Manhattan (Quận 1): thông tin dự án và 7 mặt bằng căn hộ",
+  "date": "2026-11-17",
+  "dateLabel": "17/11/2026",
+  "url": "bai-viet/the-grand-manhattan-quan-1-thong-tin-du-an.html",
+  "preview": "The Grand Manhattan là dự án căn hộ hạng sang của Novaland trên đường Cô Giang – Cô Bắc, phường Cầu Ông Lãnh, Quận 1. Dự án có lịch sử pháp lý kéo dài và đang mở bán lại các căn còn lại. Tài liệu dự án công bố 7 mặt bằng căn…",
+  "publishAt": "2026-11-17T09:00:00+07:00"
  }
 ];
