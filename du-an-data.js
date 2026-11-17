@@ -154,5 +154,16 @@ var DUAN = [
   "url": "bai-viet/the-metropole-thu-thiem-thong-tin-du-an.html",
   "preview": "The Metropole Thủ Thiêm của Sơn Kim Land là khu căn hộ hạng sang ở bán đảo Thủ Thiêm, gồm nhiều phân khu như The Opera và The OpusK. Bài này tổng hợp 24 mặt bằng căn hộ đã thu thập kèm giá tham…",
   "publishAt": "2026-11-17T20:00:00+07:00"
+ },
+ {
+  "id": "the-9-stellars-alpha-residence-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "The 9 Stellars (Alpha Residence, Thủ Đức): thông tin dự án và 14 mặt bằng căn hộ",
+  "date": "2026-11-18",
+  "dateLabel": "18/11/2026",
+  "url": "bai-viet/the-9-stellars-alpha-residence-thong-tin-du-an.html",
+  "preview": "The 9 Stellars là khu đô thị của Sơn Kim Land tại TP. Thủ Đức; Alpha Residence là một trong các phân khu căn hộ cao tầng. Bài này tổng hợp 14 mặt bằng đã thu…",
+  "publishAt": "2026-11-18T09:00:00+07:00"
  }
 ];
