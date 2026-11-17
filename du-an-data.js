@@ -143,5 +143,16 @@ var DUAN = [
   "url": "bai-viet/the-grand-manhattan-quan-1-thong-tin-du-an.html",
   "preview": "The Grand Manhattan là dự án căn hộ hạng sang của Novaland trên đường Cô Giang – Cô Bắc, phường Cầu Ông Lãnh, Quận 1. Dự án có lịch sử pháp lý kéo dài và đang mở bán lại các căn còn lại. Tài liệu dự án công bố 7 mặt bằng căn…",
   "publishAt": "2026-11-17T09:00:00+07:00"
+ },
+ {
+  "id": "the-metropole-thu-thiem-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · TP. Thủ Đức",
+  "title": "The Metropole Thủ Thiêm (Sơn Kim Land): thông tin dự án và 24 mặt bằng căn hộ",
+  "date": "2026-11-17",
+  "dateLabel": "17/11/2026",
+  "url": "bai-viet/the-metropole-thu-thiem-thong-tin-du-an.html",
+  "preview": "The Metropole Thủ Thiêm của Sơn Kim Land là khu căn hộ hạng sang ở bán đảo Thủ Thiêm, gồm nhiều phân khu như The Opera và The OpusK. Bài này tổng hợp 24 mặt bằng căn hộ đã thu thập kèm giá tham…",
+  "publishAt": "2026-11-17T20:00:00+07:00"
  }
 ];
