@@ -165,5 +165,16 @@ var DUAN = [
   "url": "bai-viet/the-9-stellars-alpha-residence-thong-tin-du-an.html",
   "preview": "The 9 Stellars là khu đô thị của Sơn Kim Land tại TP. Thủ Đức; Alpha Residence là một trong các phân khu căn hộ cao tầng. Bài này tổng hợp 14 mặt bằng đã thu…",
   "publishAt": "2026-11-18T09:00:00+07:00"
+ },
+ {
+  "id": "the-filmore-da-nang-thong-tin-du-an",
+  "region": "Đà Nẵng",
+  "tag": "Thông tin dự án · Đà Nẵng",
+  "title": "The Filmore Đà Nẵng (Bạch Đằng): thông tin dự án và 28 mặt bằng căn hộ",
+  "date": "2026-11-18",
+  "dateLabel": "18/11/2026",
+  "url": "bai-viet/the-filmore-da-nang-thong-tin-du-an.html",
+  "preview": "The Filmore Đà Nẵng là dự án căn hộ hạng sang ven sông Hàn trên đường Bạch Đằng, do Filmore Development phát triển. Tài liệu chính thức của dự án công bố 28 mặt bằng căn hộ; bài này tổng hợp các mặt bằng đó kèm giá tham…",
+  "publishAt": "2026-11-18T20:00:00+07:00"
  }
 ];
