@@ -176,5 +176,16 @@ var DUAN = [
   "url": "bai-viet/the-filmore-da-nang-thong-tin-du-an.html",
   "preview": "The Filmore Đà Nẵng là dự án căn hộ hạng sang ven sông Hàn trên đường Bạch Đằng, do Filmore Development phát triển. Tài liệu chính thức của dự án công bố 28 mặt bằng căn hộ; bài này tổng hợp các mặt bằng đó kèm giá tham…",
   "publishAt": "2026-11-18T20:00:00+07:00"
+ },
+ {
+  "id": "masteri-park-place-the-global-city-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Masteri Park Place (The Global City, Thủ Đức): thông tin dự án và 7 mặt bằng căn hộ",
+  "date": "2026-11-19",
+  "dateLabel": "19/11/2026",
+  "url": "bai-viet/masteri-park-place-the-global-city-thong-tin-du-an.html",
+  "preview": "Masteri Park Place là phân khu căn hộ cao tầng trong khu đô thị The Global City do Masterise Homes phát triển, ra mắt tháng 10/2025 với 4 tòa và 1.728 căn. Bài này tổng hợp 7 mặt bằng căn hộ công bố trên trang chính…",
+  "publishAt": "2026-11-19T09:00:00+07:00"
  }
 ];
