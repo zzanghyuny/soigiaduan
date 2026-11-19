@@ -187,5 +187,16 @@ var DUAN = [
   "url": "bai-viet/masteri-park-place-the-global-city-thong-tin-du-an.html",
   "preview": "Masteri Park Place là phân khu căn hộ cao tầng trong khu đô thị The Global City do Masterise Homes phát triển, ra mắt tháng 10/2025 với 4 tòa và 1.728 căn. Bài này tổng hợp 7 mặt bằng căn hộ công bố trên trang chính…",
   "publishAt": "2026-11-19T09:00:00+07:00"
+ },
+ {
+  "id": "lumiere-midtown-the-global-city-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Lumière Midtown (The Global City, Thủ Đức): thông tin dự án và 6 mặt bằng căn hộ",
+  "date": "2026-11-19",
+  "dateLabel": "19/11/2026",
+  "url": "bai-viet/lumiere-midtown-the-global-city-thong-tin-du-an.html",
+  "preview": "Lumière Midtown là phân khu cao tầng của Masterise Homes trong The Global City, ra mắt cuối tháng 5/2025, nằm đối diện trung tâm thương mại 123.000 m² và mặt tiền đường Liên Phường. Bài này tổng hợp 6 mặt bằng căn hộ công…",
+  "publishAt": "2026-11-19T20:00:00+07:00"
  }
 ];
