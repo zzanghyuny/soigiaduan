@@ -198,5 +198,16 @@ var DUAN = [
   "url": "bai-viet/lumiere-midtown-the-global-city-thong-tin-du-an.html",
   "preview": "Lumière Midtown là phân khu cao tầng của Masterise Homes trong The Global City, ra mắt cuối tháng 5/2025, nằm đối diện trung tâm thương mại 123.000 m² và mặt tiền đường Liên Phường. Bài này tổng hợp 6 mặt bằng căn hộ công…",
   "publishAt": "2026-11-19T20:00:00+07:00"
+ },
+ {
+  "id": "masteri-cosmo-central-the-global-city-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Masteri Cosmo Central (The Global City, Thủ Đức): thông tin dự án và 6 mặt bằng căn hộ",
+  "date": "2026-11-20",
+  "dateLabel": "20/11/2026",
+  "url": "bai-viet/masteri-cosmo-central-the-global-city-thong-tin-du-an.html",
+  "preview": "Masteri Cosmo Central là phân khu mới của Masterise Homes trong The Global City, ra mắt ngày 15/1/2026 với 6 tòa cao 19–29 tầng. Bài này tổng hợp 6 mặt bằng căn hộ công…",
+  "publishAt": "2026-11-20T09:00:00+07:00"
  }
 ];
