@@ -220,5 +220,16 @@ var DUAN = [
   "url": "bai-viet/lumiere-riverside-thao-dien-thong-tin-du-an.html",
   "preview": "Lumière Riverside là dự án căn hộ của Masterise Homes tại 628 Xa lộ Hà Nội, phường An Phú, TP. Thủ Đức (Quận 2 cũ). Dự án khởi công cuối năm 2020, cất nóc tháng 3/2023 và bàn giao cho cư dân từ tháng 9/2023. Bài này tổng hợp 6…",
   "publishAt": "2026-11-20T20:00:00+07:00"
+ },
+ {
+  "id": "lumiere-springbay-ocean-park-2-thong-tin-du-an",
+  "region": "Hà Nội",
+  "tag": "Thông tin dự án · Văn Giang (giáp Hà Nội)",
+  "title": "Lumière SpringBay (Ocean Park 2): thông tin dự án và mặt bằng căn hộ của Masterise Homes",
+  "date": "2026-11-21",
+  "dateLabel": "21/11/2026",
+  "url": "bai-viet/lumiere-springbay-ocean-park-2-thong-tin-du-an.html",
+  "preview": "Lumière SpringBay là phân khu cao tầng của Masterise Homes tại khu Ocean Park 2, phía đông Hà Nội (khu vực giáp ranh Hưng Yên). Dự án gồm 4 tòa (Vida, Feliz, Z1, L1) cao 27 tầng nổi với khoảng 1.900 căn hộ, diện tích 35–200 m².…",
+  "publishAt": "2026-11-21T09:00:00+07:00"
  }
 ];
