@@ -209,5 +209,16 @@ var DUAN = [
   "url": "bai-viet/masteri-cosmo-central-the-global-city-thong-tin-du-an.html",
   "preview": "Masteri Cosmo Central là phân khu mới của Masterise Homes trong The Global City, ra mắt ngày 15/1/2026 với 6 tòa cao 19–29 tầng. Bài này tổng hợp 6 mặt bằng căn hộ công…",
   "publishAt": "2026-11-20T09:00:00+07:00"
+ },
+ {
+  "id": "lumiere-riverside-thao-dien-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Lumière Riverside (An Phú, Thủ Đức): thông tin dự án và 6 mặt bằng căn hộ",
+  "date": "2026-11-20",
+  "dateLabel": "20/11/2026",
+  "url": "bai-viet/lumiere-riverside-thao-dien-thong-tin-du-an.html",
+  "preview": "Lumière Riverside là dự án căn hộ của Masterise Homes tại 628 Xa lộ Hà Nội, phường An Phú, TP. Thủ Đức (Quận 2 cũ). Dự án khởi công cuối năm 2020, cất nóc tháng 3/2023 và bàn giao cho cư dân từ tháng 9/2023. Bài này tổng hợp 6…",
+  "publishAt": "2026-11-20T20:00:00+07:00"
  }
 ];
