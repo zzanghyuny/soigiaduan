@@ -4,6 +4,16 @@
 */
 var DUAN = [
  {
+  "id": "gladia-heights-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Gladia Heights (Võ Chí Công, Thủ Đức): thông tin dự án, quy mô và pháp lý",
+  "date": "2026-11-21",
+  "dateLabel": "21/11/2026",
+  "url": "bai-viet/gladia-heights-thong-tin-du-an.html",
+  "preview": "Keppel và Khang Điền: 3 tháp, 616 căn hộ, ngày ra mắt và mở bán, pháp lý theo thông tin công khai và giá tham khảo."
+ },
+ {
   "id": "lancaster-legacy-thong-tin-du-an",
   "region": "TP.HCM",
   "tag": "Thông tin dự án · Quận 1",
