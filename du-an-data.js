@@ -252,5 +252,16 @@ var DUAN = [
   "url": "bai-viet/lumiere-evergreen-the-aura-thong-tin-du-an.html",
   "preview": "Lumière Evergreen là dự án đầu tiên mang thương hiệu Lumière của Masterise Homes tại Hà Nội, nằm trong khu đô thị Vinhomes Smart City (Nam Từ Liêm). Tòa The Aura là tòa đầu tiên được ra mắt và bàn giao. Bài tổng hợp 26 mặt bằng…",
   "publishAt": "2026-11-21T20:00:00+07:00"
+ },
+ {
+  "id": "masteri-grand-avenue-co-loa-thong-tin-du-an",
+  "region": "Hà Nội",
+  "tag": "Thông tin dự án · Đông Anh",
+  "title": "Masteri Grand Avenue (Cổ Loa, Đông Anh): thông tin dự án và 38 mặt bằng căn hộ hai tòa S1, S2",
+  "date": "2026-11-22",
+  "dateLabel": "22/11/2026",
+  "url": "bai-viet/masteri-grand-avenue-co-loa-thong-tin-du-an.html",
+  "preview": "Masteri Grand Avenue là dự án căn hộ của Masterise Homes tại khu Vinhomes Global Gate (Cổ Loa, Đông Anh). Giai đoạn đầu mở bán tòa S2 với đủ loại từ studio đến 3 phòng ngủ. Bài tổng hợp 38 mặt bằng hai tòa S1 và…",
+  "publishAt": "2026-11-22T09:00:00+07:00"
  }
 ];
