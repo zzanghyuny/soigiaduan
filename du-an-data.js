@@ -231,5 +231,16 @@ var DUAN = [
   "url": "bai-viet/lumiere-springbay-ocean-park-2-thong-tin-du-an.html",
   "preview": "Lumière SpringBay là phân khu cao tầng của Masterise Homes tại khu Ocean Park 2, phía đông Hà Nội (khu vực giáp ranh Hưng Yên). Dự án gồm 4 tòa (Vida, Feliz, Z1, L1) cao 27 tầng nổi với khoảng 1.900 căn hộ, diện tích 35–200 m².…",
   "publishAt": "2026-11-21T09:00:00+07:00"
+ },
+ {
+  "id": "lumiere-evergreen-the-aura-thong-tin-du-an",
+  "region": "Hà Nội",
+  "tag": "Thông tin dự án · Nam Từ Liêm",
+  "title": "Lumière Evergreen (The Aura, Smart City): thông tin dự án và 26 mặt bằng căn hộ",
+  "date": "2026-11-21",
+  "dateLabel": "21/11/2026",
+  "url": "bai-viet/lumiere-evergreen-the-aura-thong-tin-du-an.html",
+  "preview": "Lumière Evergreen là dự án đầu tiên mang thương hiệu Lumière của Masterise Homes tại Hà Nội, nằm trong khu đô thị Vinhomes Smart City (Nam Từ Liêm). Tòa The Aura là tòa đầu tiên được ra mắt và bàn giao. Bài tổng hợp 26 mặt bằng…",
+  "publishAt": "2026-11-21T20:00:00+07:00"
  }
 ];
