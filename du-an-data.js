@@ -263,5 +263,16 @@ var DUAN = [
   "url": "bai-viet/masteri-grand-avenue-co-loa-thong-tin-du-an.html",
   "preview": "Masteri Grand Avenue là dự án căn hộ của Masterise Homes tại khu Vinhomes Global Gate (Cổ Loa, Đông Anh). Giai đoạn đầu mở bán tòa S2 với đủ loại từ studio đến 3 phòng ngủ. Bài tổng hợp 38 mặt bằng hai tòa S1 và…",
   "publishAt": "2026-11-22T09:00:00+07:00"
+ },
+ {
+  "id": "eaton-park-gamuda-land-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Eaton Park (Mai Chí Thọ, Thủ Đức): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-22",
+  "dateLabel": "22/11/2026",
+  "url": "bai-viet/eaton-park-gamuda-land-thong-tin-du-an.html",
+  "preview": "Eaton Park là dự án căn hộ cao cấp của Gamuda Land (Malaysia) trên đại lộ Mai Chí Thọ, khu An Phú – Bình Trưng (Quận 2 cũ), TP. Thủ Đức. Dự án khoảng 3,77 ha với khoảng 2.000 sản phẩm, khởi công khoảng tháng 3/2024 với Coteccons…",
+  "publishAt": "2026-11-22T20:00:00+07:00"
  }
 ];
