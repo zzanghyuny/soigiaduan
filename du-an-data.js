@@ -274,5 +274,16 @@ var DUAN = [
   "url": "bai-viet/eaton-park-gamuda-land-thong-tin-du-an.html",
   "preview": "Eaton Park là dự án căn hộ cao cấp của Gamuda Land (Malaysia) trên đại lộ Mai Chí Thọ, khu An Phú – Bình Trưng (Quận 2 cũ), TP. Thủ Đức. Dự án khoảng 3,77 ha với khoảng 2.000 sản phẩm, khởi công khoảng tháng 3/2024 với Coteccons…",
   "publishAt": "2026-11-22T20:00:00+07:00"
+ },
+ {
+  "id": "palm-river-palm-city-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Palm River (Palm City, Thủ Đức): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-23",
+  "dateLabel": "23/11/2026",
+  "url": "bai-viet/palm-river-palm-city-thong-tin-du-an.html",
+  "preview": "Palm River là phân khu cao cấp trong khu đô thị Palm City ở Quận 2 cũ (TP. Thủ Đức), do HVH phát triển. Dự án có sản phẩm từ 34,86 m² đến hơn 300 m², đang thi công phần móng và dự kiến ra thị trường trong năm 2026. Phân tích giá…",
+  "publishAt": "2026-11-23T09:00:00+07:00"
  }
 ];
