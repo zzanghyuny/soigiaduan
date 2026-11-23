@@ -296,5 +296,16 @@ var DUAN = [
   "url": "bai-viet/the-river-thu-thiem-thong-tin-du-an.html",
   "preview": "The River Thủ Thiêm là dự án căn hộ cao cấp của City Garden tại Thủ Thiêm, gồm ba tòa Seine, Thames và Hudson; tòa Hudson là tòa thứ ba và cuối cùng. Dự án mở bán từ năm 2020. Bài tổng hợp các mặt bằng đã thu thập từ tài liệu năm…",
   "publishAt": "2026-11-23T20:00:00+07:00"
+ },
+ {
+  "id": "palm-city-quan-2-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · Thủ Đức",
+  "title": "Palm City (Quận 2 cũ, Thủ Đức): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-24",
+  "dateLabel": "24/11/2026",
+  "url": "bai-viet/palm-city-quan-2-thong-tin-du-an.html",
+  "preview": "Palm City là khu đô thị ở Quận 2 cũ (TP. Thủ Đức) với các phân khu Palm Heights và Palm Garden. Keppel đã thoái toàn bộ 42% vốn tại công ty dự án vào tháng 3/2025. Bài tổng hợp các mặt bằng đã thu…",
+  "publishAt": "2026-11-24T09:00:00+07:00"
  }
 ];
