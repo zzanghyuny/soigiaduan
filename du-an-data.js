@@ -285,5 +285,16 @@ var DUAN = [
   "url": "bai-viet/palm-river-palm-city-thong-tin-du-an.html",
   "preview": "Palm River là phân khu cao cấp trong khu đô thị Palm City ở Quận 2 cũ (TP. Thủ Đức), do HVH phát triển. Dự án có sản phẩm từ 34,86 m² đến hơn 300 m², đang thi công phần móng và dự kiến ra thị trường trong năm 2026. Phân tích giá…",
   "publishAt": "2026-11-23T09:00:00+07:00"
+ },
+ {
+  "id": "the-river-thu-thiem-thong-tin-du-an",
+  "region": "TP.HCM",
+  "tag": "Thông tin dự án · TP. Thủ Đức",
+  "title": "The River Thủ Thiêm (City Garden): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-23",
+  "dateLabel": "23/11/2026",
+  "url": "bai-viet/the-river-thu-thiem-thong-tin-du-an.html",
+  "preview": "The River Thủ Thiêm là dự án căn hộ cao cấp của City Garden tại Thủ Thiêm, gồm ba tòa Seine, Thames và Hudson; tòa Hudson là tòa thứ ba và cuối cùng. Dự án mở bán từ năm 2020. Bài tổng hợp các mặt bằng đã thu thập từ tài liệu năm…",
+  "publishAt": "2026-11-23T20:00:00+07:00"
  }
 ];
