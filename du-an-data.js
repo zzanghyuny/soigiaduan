@@ -318,5 +318,16 @@ var DUAN = [
   "url": "bai-viet/bcons-city-di-an-thong-tin-du-an.html",
   "preview": "Bcons City là dự án căn hộ của Bcons tại Dĩ An, Bình Dương, với hơn 4.000 căn chia thành 5 phân khu (Green Topaz, Green Emerald, Green Diamond, Green Sapphire và Bcons City). Bốn tháp đầu đã bàn giao tháng 10/2025. Bài tổng hợp…",
   "publishAt": "2026-11-24T20:00:00+07:00"
+ },
+ {
+  "id": "bcons-new-sky-thong-tin-du-an",
+  "region": "Bình Dương",
+  "tag": "Thông tin dự án · Thuận An",
+  "title": "Bcons New Sky (Bình Dương): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-25",
+  "dateLabel": "25/11/2026",
+  "url": "bai-viet/bcons-new-sky-thong-tin-du-an.html",
+  "preview": "Bcons New Sky là dự án căn hộ của Bcons với 3 tháp 31 tầng, khoảng 1.600 sản phẩm, ở khu vực Thuận An (một số nguồn ghi địa chỉ khác nhau). Bài tổng hợp các mặt bằng đã thu…",
+  "publishAt": "2026-11-25T09:00:00+07:00"
  }
 ];
