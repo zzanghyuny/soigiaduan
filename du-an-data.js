@@ -307,5 +307,16 @@ var DUAN = [
   "url": "bai-viet/palm-city-quan-2-thong-tin-du-an.html",
   "preview": "Palm City là khu đô thị ở Quận 2 cũ (TP. Thủ Đức) với các phân khu Palm Heights và Palm Garden. Keppel đã thoái toàn bộ 42% vốn tại công ty dự án vào tháng 3/2025. Bài tổng hợp các mặt bằng đã thu…",
   "publishAt": "2026-11-24T09:00:00+07:00"
+ },
+ {
+  "id": "bcons-city-di-an-thong-tin-du-an",
+  "region": "Bình Dương",
+  "tag": "Thông tin dự án · Dĩ An",
+  "title": "Bcons City (Dĩ An, Bình Dương): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-24",
+  "dateLabel": "24/11/2026",
+  "url": "bai-viet/bcons-city-di-an-thong-tin-du-an.html",
+  "preview": "Bcons City là dự án căn hộ của Bcons tại Dĩ An, Bình Dương, với hơn 4.000 căn chia thành 5 phân khu (Green Topaz, Green Emerald, Green Diamond, Green Sapphire và Bcons City). Bốn tháp đầu đã bàn giao tháng 10/2025. Bài tổng hợp…",
+  "publishAt": "2026-11-24T20:00:00+07:00"
  }
 ];
