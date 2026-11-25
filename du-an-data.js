@@ -340,5 +340,16 @@ var DUAN = [
   "url": "bai-viet/bcons-green-diamond-thong-tin-du-an.html",
   "preview": "Bcons Green Diamond là tháp căn hộ cuối cùng của dự án Bcons City, dự kiến bàn giao năm 2027. Căn 1PN 43–45 m², 2PN 52,6–60 m², 3PN 85–94 m² theo một bảng giá rao. Bài tổng hợp 6 mặt bằng đã thu…",
   "publishAt": "2026-11-25T20:00:00+07:00"
+ },
+ {
+  "id": "beachtro-tower-blanca-city-thong-tin-du-an",
+  "region": "Vũng Tàu",
+  "tag": "Thông tin dự án · Vũng Tàu",
+  "title": "Beachtro Tower (Blanca City, Vũng Tàu): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-26",
+  "dateLabel": "26/11/2026",
+  "url": "bai-viet/beachtro-tower-blanca-city-thong-tin-du-an.html",
+  "preview": "Beachtro Tower là phân khu căn hộ sở hữu lâu dài cuối cùng trong khu Blanca City (96,7 ha) của Sun Group ở Bãi Sau, Vũng Tàu, gồm 4 tòa E6–E9 cao 34–40 tầng với khoảng 1.785 căn. Bài tổng hợp sáu mặt bằng cắt từ ảnh ghép (không…",
+  "publishAt": "2026-11-26T09:00:00+07:00"
  }
 ];
