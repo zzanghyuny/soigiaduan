@@ -329,5 +329,16 @@ var DUAN = [
   "url": "bai-viet/bcons-new-sky-thong-tin-du-an.html",
   "preview": "Bcons New Sky là dự án căn hộ của Bcons với 3 tháp 31 tầng, khoảng 1.600 sản phẩm, ở khu vực Thuận An (một số nguồn ghi địa chỉ khác nhau). Bài tổng hợp các mặt bằng đã thu…",
   "publishAt": "2026-11-25T09:00:00+07:00"
+ },
+ {
+  "id": "bcons-green-diamond-thong-tin-du-an",
+  "region": "Bình Dương",
+  "tag": "Thông tin dự án · Dĩ An",
+  "title": "Bcons Green Diamond (Dĩ An): thông tin dự án và 6 mặt bằng căn hộ",
+  "date": "2026-11-25",
+  "dateLabel": "25/11/2026",
+  "url": "bai-viet/bcons-green-diamond-thong-tin-du-an.html",
+  "preview": "Bcons Green Diamond là tháp căn hộ cuối cùng của dự án Bcons City, dự kiến bàn giao năm 2027. Căn 1PN 43–45 m², 2PN 52,6–60 m², 3PN 85–94 m² theo một bảng giá rao. Bài tổng hợp 6 mặt bằng đã thu…",
+  "publishAt": "2026-11-25T20:00:00+07:00"
  }
 ];
