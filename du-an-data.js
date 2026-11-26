@@ -351,5 +351,16 @@ var DUAN = [
   "url": "bai-viet/beachtro-tower-blanca-city-thong-tin-du-an.html",
   "preview": "Beachtro Tower là phân khu căn hộ sở hữu lâu dài cuối cùng trong khu Blanca City (96,7 ha) của Sun Group ở Bãi Sau, Vũng Tàu, gồm 4 tòa E6–E9 cao 34–40 tầng với khoảng 1.785 căn. Bài tổng hợp sáu mặt bằng cắt từ ảnh ghép (không…",
   "publishAt": "2026-11-26T09:00:00+07:00"
+ },
+ {
+  "id": "nobu-residences-da-nang-thong-tin-du-an",
+  "region": "Đà Nẵng",
+  "tag": "Thông tin dự án · Đà Nẵng",
+  "title": "Nobu Residences Đà Nẵng: thông tin dự án và 4 mặt bằng căn hộ",
+  "date": "2026-11-26",
+  "dateLabel": "26/11/2026",
+  "url": "bai-viet/nobu-residences-da-nang-thong-tin-du-an.html",
+  "preview": "Nobu Residences Đà Nẵng là dự án căn hộ hạng sang gắn với thương hiệu Nobu, bàn giao dự kiến quý I/2027. Bài tổng hợp bốn mặt bằng đã thu thập kèm giá tham…",
+  "publishAt": "2026-11-26T20:00:00+07:00"
  }
 ];
