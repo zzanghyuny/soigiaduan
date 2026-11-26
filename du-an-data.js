@@ -362,5 +362,16 @@ var DUAN = [
   "url": "bai-viet/nobu-residences-da-nang-thong-tin-du-an.html",
   "preview": "Nobu Residences Đà Nẵng là dự án căn hộ hạng sang gắn với thương hiệu Nobu, bàn giao dự kiến quý I/2027. Bài tổng hợp bốn mặt bằng đã thu thập kèm giá tham…",
   "publishAt": "2026-11-26T20:00:00+07:00"
+ },
+ {
+  "id": "sun-ponte-residence-da-nang-thong-tin-du-an",
+  "region": "Đà Nẵng",
+  "tag": "Thông tin dự án · Đà Nẵng",
+  "title": "Sun Ponte Residence (sông Hàn, Đà Nẵng): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-27",
+  "dateLabel": "27/11/2026",
+  "url": "bai-viet/sun-ponte-residence-da-nang-thong-tin-du-an.html",
+  "preview": "Sun Ponte Residence là tổ hợp căn hộ của Sun Property bên sông Hàn gần cầu Rồng, 26 tầng nổi và 3 tầng hầm với khoảng 495 căn gồm studio, 1PN, 2PN, 3PN, dual key và penthouse. Bài tổng hợp ba mặt bằng 1PN+, 2PN,…",
+  "publishAt": "2026-11-27T09:00:00+07:00"
  }
 ];
