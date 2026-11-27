@@ -373,5 +373,16 @@ var DUAN = [
   "url": "bai-viet/sun-ponte-residence-da-nang-thong-tin-du-an.html",
   "preview": "Sun Ponte Residence là tổ hợp căn hộ của Sun Property bên sông Hàn gần cầu Rồng, 26 tầng nổi và 3 tầng hầm với khoảng 495 căn gồm studio, 1PN, 2PN, 3PN, dual key và penthouse. Bài tổng hợp ba mặt bằng 1PN+, 2PN,…",
   "publishAt": "2026-11-27T09:00:00+07:00"
+ },
+ {
+  "id": "sun-symphony-residence-da-nang-thong-tin-du-an",
+  "region": "Đà Nẵng",
+  "tag": "Thông tin dự án · Đà Nẵng",
+  "title": "Sun Symphony Residence (Sơn Trà, Đà Nẵng): thông tin dự án và mặt bằng căn hộ",
+  "date": "2026-11-27",
+  "dateLabel": "27/11/2026",
+  "url": "bai-viet/sun-symphony-residence-da-nang-thong-tin-du-an.html",
+  "preview": "Sun Symphony Residence là dự án căn hộ của Sun Property bên sông Hàn ở Sơn Trà, Đà Nẵng, với căn 2PN từ khoảng 68,8 m², 2PN+1 từ 79,2 m² và 3PN từ 93,1 m². Bài tổng hợp ba mặt bằng đã thu thập (chưa có diện tích in trên bản…",
+  "publishAt": "2026-11-27T20:00:00+07:00"
  }
 ];
